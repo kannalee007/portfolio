@@ -110,7 +110,7 @@ export default function Hero() {
                                 */}
                                 <div className="relative w-full h-full bg-gray-50">
                                     <Image
-                                        src="/profile.png"
+                                        src="/profile.PNG"
                                         alt="Kaarunya Lakshmana"
                                         fill
                                         className="object-cover"
