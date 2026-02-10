@@ -5,7 +5,7 @@
   --foreground: #111111;
   --text-muted: #6B6B6B;
   --border-subtle: #E5E5E5;
-  --shadow-soft: rgba(0,0,0,0.06);
+  --shadow-soft: rgba(0, 0, 0, 0.06);
 }
 
 @theme inline {
@@ -50,4 +50,9 @@ html {
 .font-accent {
   font-family: var(--font-playfair), Georgia, serif;
   font-style: italic;
+}
+
+
+img {
+  border: 2px solid red;
 }
