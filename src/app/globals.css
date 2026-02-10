@@ -51,8 +51,3 @@ html {
   font-family: var(--font-playfair), Georgia, serif;
   font-style: italic;
 }
-
-
-img {
-  border: 2px solid red;
-}
